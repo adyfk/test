@@ -1,3 +1,15 @@
+# [3.0.0](https://github.com/adyfk/test/compare/v2.1.2...v3.0.0) (2022-10-03)
+
+
+### Bug Fixes
+
+* fff ([ca099b0](https://github.com/adyfk/test/commit/ca099b0b6145db890657f81544868f137f07fbdc))
+
+
+### BREAKING CHANGES
+
+* sdfsdf
+
 ## [2.1.2](https://github.com/adyfk/test/compare/v2.1.1...v2.1.2) (2022-10-03)
 
 
