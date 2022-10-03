@@ -1,3 +1,10 @@
+## [2.1.2](https://github.com/adyfk/test/compare/v2.1.1...v2.1.2) (2022-10-03)
+
+
+### Bug Fixes
+
+* dt ([eec5bd5](https://github.com/adyfk/test/commit/eec5bd5f4bfe64b5d7d55c0e51052509cf162115))
+
 ### Changelog
 
 All notable changes to this project will be documented in this file. Dates are displayed in UTC.
