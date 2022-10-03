@@ -1,3 +1,10 @@
+## [3.0.1](https://github.com/adyfk/test/compare/v3.0.0...v3.0.1) (2022-10-03)
+
+
+### Performance Improvements
+
+* **d:** d ([71a3a4a](https://github.com/adyfk/test/commit/71a3a4a2c635a38e207f84877863c3ed5c114bdf))
+
 # [3.0.0](https://github.com/adyfk/test/compare/v2.1.2...v3.0.0) (2022-10-03)
 
 
