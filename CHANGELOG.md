@@ -1,3 +1,10 @@
+# [5.1.0](https://github.com/adyfk/test/compare/v5.0.0...v5.1.0) (2022-10-03)
+
+
+### Features
+
+* **d:** f ([fed3e8b](https://github.com/adyfk/test/commit/fed3e8b1226e0ecf3b3a689a158bdeae009dc9b2))
+
 # [5.0.0](https://github.com/adyfk/test/compare/v4.0.0...v5.0.0) (2022-10-03)
 
 
