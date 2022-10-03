@@ -1,3 +1,15 @@
+# [5.0.0](https://github.com/adyfk/test/compare/v4.0.0...v5.0.0) (2022-10-03)
+
+
+### Performance Improvements
+
+* **df:** d ([597f918](https://github.com/adyfk/test/commit/597f91868ea173a6e5d955f8c6802aeb726a157f))
+
+
+### BREAKING CHANGES
+
+* **df:** dsf
+
 # [4.0.0](https://github.com/adyfk/test/compare/v3.0.1...v4.0.0) (2022-10-03)
 
 
